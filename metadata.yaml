@@ -1,0 +1,28 @@
+_repo: A-Review-and-Exposition-of-the-Falsehoods-and-Misrepresentations-of-a-Pamphlet-Addressed-to-t__14729
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Elector
+    gutenberg_agent_id: '5653'
+    url: http://www.gutenberg.org/2009/agents/5653
+description: ''
+gutenberg_issued: '2005-01-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14729'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Young, Samuel, 1779-1850'
+- !lcc 'F106'
+- !lcsh 'One of their fellow citizens. Defence, or, An apology for a majority of the
+  Republican electors in the county of Saratoga'
+- !lcsh 'Saratoga County (N.Y.) -- Politics and government'
+title: A Review and Exposition, of the Falsehoods and Misrepresentations, of a Pamphlet
+  Addressed to the Republicans of the County of Saratoga, Signed, "A Citizen"
+url: http://www.gutenberg.org/ebooks/14729
